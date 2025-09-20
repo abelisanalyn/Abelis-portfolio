@@ -30,13 +30,13 @@
 
         <h2 class="section-title">About Me</h2>
 
-        <!-- About content -->
+        <p>Hi im Analyn Ledonio Abelis , 30 years old and Im 2nd year College</p>
+        <p>I am an IT student passionate about technology and software development, eager to apply my skills in real-world projects and continuously learn in the ever-evolving tech industry.',</p>
 
     </div>
 
 </section>
 
-<!-- Projects Section -->
 
 <section id="projects" class="section bg-light">
 
@@ -44,7 +44,7 @@
 
         <h2 class="section-title">My Projects</h2>
 
-        <!-- Projects content -->
+        <p>Portfolio</p>
 
     </div>
 
@@ -58,7 +58,10 @@
 
         <h2 class="section-title">Get In Touch</h2>
 
-        <!-- Contact content -->
+        <p>analyn112394@gmail.com</p>
+         <p>09976853939</p>
+          <p>45 Parrot street Brgy. Batasan Hills Quezon City , Metro Manila</p>
+
 
     </div>
 
